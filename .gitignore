@@ -1,0 +1,5 @@
+.env
+proxy-list.txt
+scraper.log
+output.json
+output_2.json
