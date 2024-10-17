@@ -6,6 +6,16 @@ This repository contains a web scraper designed to extract property listings fro
 
 The details tutorial can be found in Rayobyte Community Web Scraping Project page.
 
+## Features
+
+This Zillow Scraper consists of **TWO** parts
+
+The **first part** consists of scraping these values:
+`HOUSE URL`, `PHOTO URLs`, `PRICE`, `FULL ADDRESS`, `STREET`, `CITY`, `STATE`, `ZIP CODE`, `NUMBER OF BEDROOMS`, `NUMBER OF BATHROOMS`, `HOUSE SIZE`, `LOT SIZE` and `HOUSE TYPE`
+
+The **second parts** consist of scraping the following values:
+`YEAR BUILT`, `DESCRIPTION`, `LISTING DATE`, `DAYS ON ZILLOW`, `TOTAL VIEWS`, `TOTAL SAVED`, `REALTOR NAME`, `REALTOR CONTACT NO`, `AGENCY`, `CO-REALTOR NAME`, `CO-REALTOR CONTACT NO` and `CO-REALTOR AGENCY`
+
 ## Installation
 
 To get started with the Zillow Properties for Sale Scraper, follow these steps:
