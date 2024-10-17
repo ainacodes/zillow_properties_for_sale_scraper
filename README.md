@@ -13,8 +13,12 @@ This Zillow Scraper consists of **TWO** parts
 The **first part** consists of scraping these values:
 `HOUSE URL`, `PHOTO URLs`, `PRICE`, `FULL ADDRESS`, `STREET`, `CITY`, `STATE`, `ZIP CODE`, `NUMBER OF BEDROOMS`, `NUMBER OF BATHROOMS`, `HOUSE SIZE`, `LOT SIZE` and `HOUSE TYPE`
 
+The output is stored in `OUTPUT_1` folder
+
 The **second parts** consist of scraping the following values:
 `YEAR BUILT`, `DESCRIPTION`, `LISTING DATE`, `DAYS ON ZILLOW`, `TOTAL VIEWS`, `TOTAL SAVED`, `REALTOR NAME`, `REALTOR CONTACT NO`, `AGENCY`, `CO-REALTOR NAME`, `CO-REALTOR CONTACT NO` and `CO-REALTOR AGENCY`
+
+The output is stored in `OUTPUT_2` folder
 
 ## Installation
 
