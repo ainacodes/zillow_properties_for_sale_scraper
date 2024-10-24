@@ -4,7 +4,7 @@
 
 This repository contains a web scraper designed to extract property listings from Zillow. The scraper retrieves data such as property details, prices, and locations, allowing users to analyze real estate trends and opportunities.
 
-The details tutorial can be found in Rayobyte Community Web Scraping Project page.
+The details tutorial can be found in [Rayobyte Community Web Scraping Project page.](https://rayobyte.com/community/scraping-project/zillow-scraping-with-python-extract-property-listings-and-home-prices/)
 
 ## Features
 
